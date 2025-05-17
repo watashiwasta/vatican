@@ -1,0 +1,10 @@
+{
+    "redirects": [
+      {
+        "source": "/",
+        "destination": "/new-vatican-mascon",
+        "permanent": true
+      }
+    ]
+  }
+  
