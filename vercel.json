@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/vatican-new-mascot",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/vatican-new-mascot/:path*",
+      "destination": "/:path*"
+    }
+  ]
+} 
